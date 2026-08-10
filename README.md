@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SR50
 - 👀 I’m interested in coding and hacking
 - 🌱 I’m currently learning hacking
-- 💞️ I’m looking to collaborate on using different OS to hack (ethecly of course)
+- 💞️ I’m looking to collaborate on using different OS to hack (ethically of course)
 - 📫 My email is Lucasstubbs2010@gmail.com if you want to reach me although I rarely respond
 
 <!---
