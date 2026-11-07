@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @SR50
 - 👀 I’m interested in breaking into cybersecurity
-- 🌱 I’m currently learning the basics of linux
+- 🌱 I’m currently learning the basics of linux and cybersecurity.
